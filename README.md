@@ -2,7 +2,7 @@
 
 A Generative AI app that explains code snippets in plain English using the `CodeT5` model from Hugging Face. Paste your code, pick a language, and understand what it really does.
 
-## 🚀 Live Demo
+## 🚀 Live Demo ( Soon )
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_APP_URL)
 
